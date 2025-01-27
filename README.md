@@ -1,6 +1,6 @@
-Platforms and Software Used:
+### Platforms and Software Used:
 POSTMAN, XAMPP, MYSQL
-Technologies Used:
+### Technologies Used:
 AXIS, JSON, JAVA, HTML, JS, SQL
 
 ![1](https://github.com/user-attachments/assets/f88c8e04-e122-42e4-98ad-c39f457b18a9)
