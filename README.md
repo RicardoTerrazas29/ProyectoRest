@@ -1,4 +1,7 @@
-proyecto hecho con AXIS, JSON, JAVA, HTML, JS, POSTMAN, MYSQL Y XAMPP
+Platforms and Software Used:
+POSTMAN, XAMPP, MYSQL
+Technologies Used:
+AXIS, JSON, JAVA, HTML, JS, SQL
 
 ![1](https://github.com/user-attachments/assets/f88c8e04-e122-42e4-98ad-c39f457b18a9)
 ![2](https://github.com/user-attachments/assets/d57b3769-2946-4d9c-80e3-ee51cdacaab6)
